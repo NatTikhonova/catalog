@@ -1,6 +1,6 @@
 # Каталог
 Интернет магазин с авторизацией, добавлением товаров в корзину и оформление заказов (только для авторизованных пользователей) <br>
-Java, Hibernate, MySQL, JS, Jsp
+Java, Hibernate, MySQL, JS, Jsp, Bootstrap
 ## Главная страница
 ![1](https://github.com/NatTikhonova/catalog/assets/136454367/a2057752-18d9-43da-a77c-3d867d81457f)
 ## Авторизация
