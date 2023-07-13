@@ -21,7 +21,7 @@ public class Authorization extends HttpServlet {
             if (action.equals("del")){
                 HttpSession session = request.getSession(false);
                 session.invalidate();
-                response.sendRedirect("/hairProductsShop");
+                response.sendRedirect("/catalog");
             }
         } else {
             request.setAttribute("title", "Авторизация");
